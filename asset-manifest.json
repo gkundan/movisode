@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movisode/static/css/main.946db3e2.css",
+    "main.js": "/movisode/static/js/main.a54bda1d.js",
+    "index.html": "/movisode/index.html",
+    "main.946db3e2.css.map": "/movisode/static/css/main.946db3e2.css.map",
+    "main.a54bda1d.js.map": "/movisode/static/js/main.a54bda1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.946db3e2.css",
+    "static/js/main.a54bda1d.js"
+  ]
+}
